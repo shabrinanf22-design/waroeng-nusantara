@@ -1,0 +1,13 @@
+nama,kategori,harga,stok,foto,status
+Mie ayam,makanan,12000,25,mieayam.png,tersedia
+Gado-gado,makanan,15000,25,gadogado.png,tersedia
+Nasi goreng,makanan,15000,25,nasigoreng.png,tersedia
+Sate ayam,makanan,20000,20,sateayam.png,tersedia
+Bakso,makanan,15000,20,bakso.png,tersedia
+Soto ayam,makanan,12000,20,soto.png,tersedia
+Papeda ikan kuah kuning,makanan,25000,18,papeda.png,tersedia
+Es teler,minuman,12000,30,esteler.png,tersedia
+Wedang ronde,minuman,10000,15,wedangronde.png,tersedia
+Es cendol,minuman,8000,20,escendol.png,tersedia
+Wedang uwuh,minuman,8000,15,wedanguwuh.png,tersedia
+Rendang,makanan,25000,30,rendang.png,tersedia
